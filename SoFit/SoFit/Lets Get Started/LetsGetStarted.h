@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "AboutWazzApp.h"
+#import "AboutWaazApp.h"
 
 @interface LetsGetStarted : UIViewController
 {

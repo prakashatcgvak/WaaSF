@@ -34,8 +34,6 @@
 		36994F2A151C79D600D9CD0D /* GymLocatorViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 36994F28151C79D600D9CD0D /* GymLocatorViewController.xib */; };
 		36994F2F151C79F800D9CD0D /* LetsGetStarted.m in Sources */ = {isa = PBXBuildFile; fileRef = 36994F2D151C79F800D9CD0D /* LetsGetStarted.m */; };
 		36994F30151C79F800D9CD0D /* LetsGetStarted.xib in Resources */ = {isa = PBXBuildFile; fileRef = 36994F2E151C79F800D9CD0D /* LetsGetStarted.xib */; };
-		36994F35151C7A1500D9CD0D /* LoginView.m in Sources */ = {isa = PBXBuildFile; fileRef = 36994F33151C7A1500D9CD0D /* LoginView.m */; };
-		36994F36151C7A1500D9CD0D /* LoginView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 36994F34151C7A1500D9CD0D /* LoginView.xib */; };
 		36994F3B151C7A4300D9CD0D /* MINetworkViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 36994F39151C7A4300D9CD0D /* MINetworkViewController.m */; };
 		36994F3C151C7A4300D9CD0D /* MINetworkViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 36994F3A151C7A4300D9CD0D /* MINetworkViewController.xib */; };
 		36994F41151C7A6700D9CD0D /* NetworkToFBViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 36994F3F151C7A6700D9CD0D /* NetworkToFBViewController.m */; };
@@ -50,8 +48,10 @@
 		36994F5A151C7E3C00D9CD0D /* UserRegistration.xib in Resources */ = {isa = PBXBuildFile; fileRef = 36994F58151C7E3C00D9CD0D /* UserRegistration.xib */; };
 		36994F5F151C7E5C00D9CD0D /* WhoIsNearViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 36994F5D151C7E5C00D9CD0D /* WhoIsNearViewController.m */; };
 		36994F60151C7E5C00D9CD0D /* WhoIsNearViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 36994F5E151C7E5C00D9CD0D /* WhoIsNearViewController.xib */; };
-		A15B5E4E15199CE5000BD308 /* SplashScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = A15B5E4C15199CE5000BD308 /* SplashScreen.m */; };
-		A15B5E4F15199CE5000BD308 /* SplashScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A15B5E4D15199CE5000BD308 /* SplashScreen.xib */; };
+		36994F78151CBA2A00D9CD0D /* SplashScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 36994F76151CBA2A00D9CD0D /* SplashScreen.m */; };
+		36994F79151CBA2A00D9CD0D /* SplashScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 36994F77151CBA2A00D9CD0D /* SplashScreen.xib */; };
+		36994F7E151CBA9800D9CD0D /* LoginView.m in Sources */ = {isa = PBXBuildFile; fileRef = 36994F7C151CBA9800D9CD0D /* LoginView.m */; };
+		36994F7F151CBA9800D9CD0D /* LoginView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 36994F7D151CBA9800D9CD0D /* LoginView.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -94,9 +94,6 @@
 		36994F2C151C79F800D9CD0D /* LetsGetStarted.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LetsGetStarted.h; path = "SoFit/Lets Get Started/LetsGetStarted.h"; sourceTree = "<group>"; };
 		36994F2D151C79F800D9CD0D /* LetsGetStarted.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LetsGetStarted.m; path = "SoFit/Lets Get Started/LetsGetStarted.m"; sourceTree = "<group>"; };
 		36994F2E151C79F800D9CD0D /* LetsGetStarted.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = LetsGetStarted.xib; path = "SoFit/Lets Get Started/LetsGetStarted.xib"; sourceTree = "<group>"; };
-		36994F32151C7A1500D9CD0D /* LoginView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LoginView.h; path = SoFit/LoginView.h; sourceTree = "<group>"; };
-		36994F33151C7A1500D9CD0D /* LoginView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LoginView.m; path = SoFit/LoginView.m; sourceTree = "<group>"; };
-		36994F34151C7A1500D9CD0D /* LoginView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = LoginView.xib; path = SoFit/LoginView.xib; sourceTree = "<group>"; };
 		36994F38151C7A4300D9CD0D /* MINetworkViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MINetworkViewController.h; path = "SoFit/My Network/MINetworkViewController.h"; sourceTree = "<group>"; };
 		36994F39151C7A4300D9CD0D /* MINetworkViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MINetworkViewController.m; path = "SoFit/My Network/MINetworkViewController.m"; sourceTree = "<group>"; };
 		36994F3A151C7A4300D9CD0D /* MINetworkViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = MINetworkViewController.xib; path = "SoFit/My Network/MINetworkViewController.xib"; sourceTree = "<group>"; };
@@ -118,9 +115,12 @@
 		36994F5C151C7E5C00D9CD0D /* WhoIsNearViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WhoIsNearViewController.h; path = "SoFit/Who is Near/WhoIsNearViewController.h"; sourceTree = "<group>"; };
 		36994F5D151C7E5C00D9CD0D /* WhoIsNearViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = WhoIsNearViewController.m; path = "SoFit/Who is Near/WhoIsNearViewController.m"; sourceTree = "<group>"; };
 		36994F5E151C7E5C00D9CD0D /* WhoIsNearViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = WhoIsNearViewController.xib; path = "SoFit/Who is Near/WhoIsNearViewController.xib"; sourceTree = "<group>"; };
-		A15B5E4B15199CE5000BD308 /* SplashScreen.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SplashScreen.h; path = SoFit/SplashScreen.h; sourceTree = "<group>"; };
-		A15B5E4C15199CE5000BD308 /* SplashScreen.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SplashScreen.m; path = SoFit/SplashScreen.m; sourceTree = "<group>"; };
-		A15B5E4D15199CE5000BD308 /* SplashScreen.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = SplashScreen.xib; path = SoFit/SplashScreen.xib; sourceTree = "<group>"; };
+		36994F75151CBA2A00D9CD0D /* SplashScreen.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SplashScreen.h; path = SoFit/SplashScreen/SplashScreen.h; sourceTree = "<group>"; };
+		36994F76151CBA2A00D9CD0D /* SplashScreen.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SplashScreen.m; path = SoFit/SplashScreen/SplashScreen.m; sourceTree = "<group>"; };
+		36994F77151CBA2A00D9CD0D /* SplashScreen.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = SplashScreen.xib; path = SoFit/SplashScreen/SplashScreen.xib; sourceTree = "<group>"; };
+		36994F7B151CBA9800D9CD0D /* LoginView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LoginView.h; path = SoFit/LoginView/LoginView.h; sourceTree = "<group>"; };
+		36994F7C151CBA9800D9CD0D /* LoginView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LoginView.m; path = SoFit/LoginView/LoginView.m; sourceTree = "<group>"; };
+		36994F7D151CBA9800D9CD0D /* LoginView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = LoginView.xib; path = SoFit/LoginView/LoginView.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,6 +142,7 @@
 		36116C391518ED340007A301 = {
 			isa = PBXGroup;
 			children = (
+				36994F7A151CBA8700D9CD0D /* LoginView */,
 				36994F5B151C7E4D00D9CD0D /* WhoIsNear */,
 				36994F55151C7E2A00D9CD0D /* UserRegistration */,
 				36994F4F151C7AC200D9CD0D /* UpdateStatistics */,
@@ -149,7 +150,6 @@
 				36994F43151C7A6D00D9CD0D /* PokeFriends */,
 				36994F3D151C7A4F00D9CD0D /* NetworkToFB */,
 				36994F37151C7A3000D9CD0D /* MyNetwork */,
-				36994F31151C7A0400D9CD0D /* Loginview */,
 				36994F2B151C79E600D9CD0D /* LetsGetStarted */,
 				36994F25151C79C100D9CD0D /* Gym Locator */,
 				36994F1F151C797A00D9CD0D /* ForgotPassword */,
@@ -297,16 +297,6 @@
 			name = LetsGetStarted;
 			sourceTree = "<group>";
 		};
-		36994F31151C7A0400D9CD0D /* Loginview */ = {
-			isa = PBXGroup;
-			children = (
-				36994F32151C7A1500D9CD0D /* LoginView.h */,
-				36994F33151C7A1500D9CD0D /* LoginView.m */,
-				36994F34151C7A1500D9CD0D /* LoginView.xib */,
-			);
-			name = Loginview;
-			sourceTree = "<group>";
-		};
 		36994F37151C7A3000D9CD0D /* MyNetwork */ = {
 			isa = PBXGroup;
 			children = (
@@ -377,12 +367,22 @@
 			name = WhoIsNear;
 			sourceTree = "<group>";
 		};
+		36994F7A151CBA8700D9CD0D /* LoginView */ = {
+			isa = PBXGroup;
+			children = (
+				36994F7B151CBA9800D9CD0D /* LoginView.h */,
+				36994F7C151CBA9800D9CD0D /* LoginView.m */,
+				36994F7D151CBA9800D9CD0D /* LoginView.xib */,
+			);
+			name = LoginView;
+			sourceTree = "<group>";
+		};
 		A15B5E5115199CF0000BD308 /* SplashScreen */ = {
 			isa = PBXGroup;
 			children = (
-				A15B5E4B15199CE5000BD308 /* SplashScreen.h */,
-				A15B5E4C15199CE5000BD308 /* SplashScreen.m */,
-				A15B5E4D15199CE5000BD308 /* SplashScreen.xib */,
+				36994F75151CBA2A00D9CD0D /* SplashScreen.h */,
+				36994F76151CBA2A00D9CD0D /* SplashScreen.m */,
+				36994F77151CBA2A00D9CD0D /* SplashScreen.xib */,
 			);
 			name = SplashScreen;
 			sourceTree = "<group>";
@@ -439,7 +439,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				36116C531518ED350007A301 /* InfoPlist.strings in Resources */,
-				A15B5E4F15199CE5000BD308 /* SplashScreen.xib in Resources */,
 				362A99EA1519E50C00A390D4 /* WaazAppLogo.png in Resources */,
 				362A99EB1519E50C00A390D4 /* WaazAppRetina.png in Resources */,
 				362A99F41519E57500A390D4 /* WorkOutRoutines.xib in Resources */,
@@ -451,7 +450,6 @@
 				36994F24151C79AD00D9CD0D /* ForgotPassword.xib in Resources */,
 				36994F2A151C79D600D9CD0D /* GymLocatorViewController.xib in Resources */,
 				36994F30151C79F800D9CD0D /* LetsGetStarted.xib in Resources */,
-				36994F36151C7A1500D9CD0D /* LoginView.xib in Resources */,
 				36994F3C151C7A4300D9CD0D /* MINetworkViewController.xib in Resources */,
 				36994F42151C7A6700D9CD0D /* NetworkToFBViewController.xib in Resources */,
 				36994F48151C7A8300D9CD0D /* PokeFriendViewController.xib in Resources */,
@@ -459,6 +457,8 @@
 				36994F54151C7E2000D9CD0D /* UpdateStatistics.xib in Resources */,
 				36994F5A151C7E3C00D9CD0D /* UserRegistration.xib in Resources */,
 				36994F60151C7E5C00D9CD0D /* WhoIsNearViewController.xib in Resources */,
+				36994F79151CBA2A00D9CD0D /* SplashScreen.xib in Resources */,
+				36994F7F151CBA9800D9CD0D /* LoginView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -471,7 +471,6 @@
 			files = (
 				36116C551518ED350007A301 /* main.m in Sources */,
 				36116C591518ED350007A301 /* AppDelegate.m in Sources */,
-				A15B5E4E15199CE5000BD308 /* SplashScreen.m in Sources */,
 				362A99F31519E57500A390D4 /* WorkOutRoutines.m in Sources */,
 				362A99F91519EBFC00A390D4 /* WeightManagementCardio.m in Sources */,
 				362A9A011519FCE100A390D4 /* TestFormattingClass.m in Sources */,
@@ -480,7 +479,6 @@
 				36994F23151C79AD00D9CD0D /* ForgotPassword.m in Sources */,
 				36994F29151C79D600D9CD0D /* GymLocatorViewController.m in Sources */,
 				36994F2F151C79F800D9CD0D /* LetsGetStarted.m in Sources */,
-				36994F35151C7A1500D9CD0D /* LoginView.m in Sources */,
 				36994F3B151C7A4300D9CD0D /* MINetworkViewController.m in Sources */,
 				36994F41151C7A6700D9CD0D /* NetworkToFBViewController.m in Sources */,
 				36994F47151C7A8300D9CD0D /* PokeFriendViewController.m in Sources */,
@@ -488,6 +486,8 @@
 				36994F53151C7E2000D9CD0D /* UpdateStatistics.m in Sources */,
 				36994F59151C7E3C00D9CD0D /* UserRegistration.m in Sources */,
 				36994F5F151C7E5C00D9CD0D /* WhoIsNearViewController.m in Sources */,
+				36994F78151CBA2A00D9CD0D /* SplashScreen.m in Sources */,
+				36994F7E151CBA9800D9CD0D /* LoginView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

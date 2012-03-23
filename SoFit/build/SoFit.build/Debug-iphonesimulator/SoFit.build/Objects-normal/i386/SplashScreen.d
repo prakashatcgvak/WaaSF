@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/cgvak/Documents/iPhoneSamples/Projects/WaSf/SoFit/SoFit/SplashScreen.m \
-  /Users/cgvak/Documents/iPhoneSamples/Projects/WaSf/SoFit/SoFit/SplashScreen.h
+  /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/SplashScreen/SplashScreen.m \
+  /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/SplashScreen/SplashScreen.h

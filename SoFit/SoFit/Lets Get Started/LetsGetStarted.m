@@ -33,7 +33,7 @@
 {   
     
     [self.tabBarController.tabBar setHidden:FALSE];
-    [self.title = @""];
+//    [self.title = @""];
     
     UIBarButtonItem *aboutButton = [[UIBarButtonItem alloc] initWithTitle:@"About" style:UIBarButtonItemStyleDone target:self action:@selector(aboutBtnFunction)];
     self.navigationItem.leftBarButtonItem = aboutButton;
@@ -46,7 +46,7 @@
 
 -(void)aboutBtnFunction
 {
-    AboutWazzApp *aboutObj = [[AboutWazzApp alloc] initWithNibName:@"AboutWazzApp" bundle:nil];
+    AboutWaazApp *aboutObj = [[AboutWaazApp alloc] initWithNibName:@"AboutWazzApp" bundle:nil];
     [self.navigationController pushViewController:aboutObj animated:YES];
 }
 

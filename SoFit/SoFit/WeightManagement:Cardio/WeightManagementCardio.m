@@ -40,6 +40,8 @@
   TestFormattingClass *testFormattingClass = [[TestFormattingClass alloc] init];  
   exerciseTable.backgroundColor = [UIColor clearColor];
   self.navigationItem.titleView = [testFormattingClass setNavigationtitleWithString:@"CARDIO"];
+  edit.hidden = TRUE;
+  add.hidden = TRUE;
 }
 
 - (void)viewDidLoad

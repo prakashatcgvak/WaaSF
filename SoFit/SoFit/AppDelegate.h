@@ -8,13 +8,13 @@
 
 #import <UIKit/UIKit.h>
 #import "SplashScreen.h"
-#import "loginScreen.h"
-#import "Let'sGetStarted.h"
+#import "LoginView.h"
+#import "LetsGetStarted.h"
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 {
     NSTimer *timer;
-    loginScreen *loginObj;
+    LoginView *loginObj;
   
   
     UINavigationController *navigationObj;

@@ -18,7 +18,7 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
-    Let_sGetStarted *letsGetStartedObj = [[Let_sGetStarted alloc]init];
+    LetsGetStarted *letsGetStartedObj = [[LetsGetStarted alloc]init];
     tabBarObj = [[UITabBarController alloc] init];
     tabBarObj.viewControllers = [NSArray arrayWithObjects:letsGetStartedObj, nil];
     
