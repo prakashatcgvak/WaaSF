@@ -14,17 +14,17 @@
     LoginView *loginObj;
 }
 
-@property (weak, nonatomic) IBOutlet UIImageView *userImageView;
+@property (strong, nonatomic) IBOutlet UIImageView *userImageView;
 
-@property (weak, nonatomic) IBOutlet UITextField *firstNameTxtField;
-@property (weak, nonatomic) IBOutlet UITextField *lastNameTxtField;
-@property (weak, nonatomic) IBOutlet UITextField *userNameTxtField;
-@property (weak, nonatomic) IBOutlet UITextField *passwordTxtField;
-@property (weak, nonatomic) IBOutlet UITextField *emailTxtField;
+@property (strong, nonatomic) IBOutlet UITextField *firstNameTxtField;
+@property (strong, nonatomic) IBOutlet UITextField *lastNameTxtField;
+@property (strong, nonatomic) IBOutlet UITextField *userNameTxtField;
+@property (strong, nonatomic) IBOutlet UITextField *passwordTxtField;
+@property (strong, nonatomic) IBOutlet UITextField *emailTxtField;
 
-@property (weak, nonatomic) IBOutlet UIButton *forgetPwdBtn;
-@property (weak, nonatomic) IBOutlet UIButton *keppMeLogInBtn;
-@property (weak, nonatomic) IBOutlet UIButton *submitBtn;
+@property (strong, nonatomic) IBOutlet UIButton *forgetPwdBtn;
+@property (strong, nonatomic) IBOutlet UIButton *keppMeLogInBtn;
+@property (strong, nonatomic) IBOutlet UIButton *submitBtn;
 
  
 

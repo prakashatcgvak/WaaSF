@@ -13,17 +13,23 @@
 		36116C531518ED350007A301 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 36116C511518ED350007A301 /* InfoPlist.strings */; };
 		36116C551518ED350007A301 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 36116C541518ED350007A301 /* main.m */; };
 		36116C591518ED350007A301 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 36116C581518ED350007A301 /* AppDelegate.m */; };
+		361C87CC1520BC48008076FE /* Check.png in Resources */ = {isa = PBXBuildFile; fileRef = 361C87CA1520BC48008076FE /* Check.png */; };
+		361C87CD1520BC48008076FE /* UnCheck.png in Resources */ = {isa = PBXBuildFile; fileRef = 361C87CB1520BC48008076FE /* UnCheck.png */; };
+		361C87D21520C80F008076FE /* StrengthCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = 361C87D01520C80F008076FE /* StrengthCategory.m */; };
+		361C87D31520C80F008076FE /* StrengthCategory.xib in Resources */ = {isa = PBXBuildFile; fileRef = 361C87D11520C80F008076FE /* StrengthCategory.xib */; };
+		361F4F2F15207131008958B3 /* StrengthList.m in Sources */ = {isa = PBXBuildFile; fileRef = 361F4F2D15207131008958B3 /* StrengthList.m */; };
+		361F4F3015207131008958B3 /* StrengthList.xib in Resources */ = {isa = PBXBuildFile; fileRef = 361F4F2E15207131008958B3 /* StrengthList.xib */; };
+		361F4F34152080A0008958B3 /* NumberKeypadDecimalPoint.m in Sources */ = {isa = PBXBuildFile; fileRef = 361F4F33152080A0008958B3 /* NumberKeypadDecimalPoint.m */; };
+		361F4F3615208202008958B3 /* decimalKeyDownBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = 361F4F3515208202008958B3 /* decimalKeyDownBackground.png */; };
 		362A99EA1519E50C00A390D4 /* WaazAppLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 362A99E81519E50C00A390D4 /* WaazAppLogo.png */; };
 		362A99EB1519E50C00A390D4 /* WaazAppRetina.png in Resources */ = {isa = PBXBuildFile; fileRef = 362A99E91519E50C00A390D4 /* WaazAppRetina.png */; };
 		362A99F31519E57500A390D4 /* WorkOutRoutines.m in Sources */ = {isa = PBXBuildFile; fileRef = 362A99F11519E57500A390D4 /* WorkOutRoutines.m */; };
 		362A99F41519E57500A390D4 /* WorkOutRoutines.xib in Resources */ = {isa = PBXBuildFile; fileRef = 362A99F21519E57500A390D4 /* WorkOutRoutines.xib */; };
 		362A99F91519EBFC00A390D4 /* WeightManagementCardio.m in Sources */ = {isa = PBXBuildFile; fileRef = 362A99F71519EBFC00A390D4 /* WeightManagementCardio.m */; };
 		362A99FA1519EBFC00A390D4 /* WeightManagementCardio.xib in Resources */ = {isa = PBXBuildFile; fileRef = 362A99F81519EBFC00A390D4 /* WeightManagementCardio.xib */; };
-		362A9A011519FCE100A390D4 /* TestFormattingClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 362A9A001519FCE100A390D4 /* TestFormattingClass.m */; };
+		362A9A011519FCE100A390D4 /* TextFormattingClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 362A9A001519FCE100A390D4 /* TextFormattingClass.m */; };
 		362A9A031519FFE100A390D4 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 362A9A021519FFE100A390D4 /* QuartzCore.framework */; };
 		362A9A0D151A0FE100A390D4 /* iAd.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 362A9A0C151A0FE100A390D4 /* iAd.framework */; };
-		362A9A10151A135700A390D4 /* UnCheck.png in Resources */ = {isa = PBXBuildFile; fileRef = 362A9A0E151A135700A390D4 /* UnCheck.png */; };
-		362A9A11151A135700A390D4 /* Check.png in Resources */ = {isa = PBXBuildFile; fileRef = 362A9A0F151A135700A390D4 /* Check.png */; };
 		362A9A16151A175000A390D4 /* CardioWorkout.m in Sources */ = {isa = PBXBuildFile; fileRef = 362A9A14151A175000A390D4 /* CardioWorkout.m */; };
 		362A9A17151A175000A390D4 /* CardioWorkout.xib in Resources */ = {isa = PBXBuildFile; fileRef = 362A9A15151A175000A390D4 /* CardioWorkout.xib */; };
 		36994F1C151C793C00D9CD0D /* AboutWaazApp.m in Sources */ = {isa = PBXBuildFile; fileRef = 36994F1A151C793C00D9CD0D /* AboutWaazApp.m */; };
@@ -52,6 +58,7 @@
 		36994F79151CBA2A00D9CD0D /* SplashScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 36994F77151CBA2A00D9CD0D /* SplashScreen.xib */; };
 		36994F7E151CBA9800D9CD0D /* LoginView.m in Sources */ = {isa = PBXBuildFile; fileRef = 36994F7C151CBA9800D9CD0D /* LoginView.m */; };
 		36994F7F151CBA9800D9CD0D /* LoginView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 36994F7D151CBA9800D9CD0D /* LoginView.xib */; };
+		36D698EB1520AB3900B02CF6 /* workout.png in Resources */ = {isa = PBXBuildFile; fileRef = 36D698EA1520AB3900B02CF6 /* workout.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -65,6 +72,17 @@
 		36116C561518ED350007A301 /* SoFit-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SoFit-Prefix.pch"; sourceTree = "<group>"; };
 		36116C571518ED350007A301 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		36116C581518ED350007A301 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		361C87CA1520BC48008076FE /* Check.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Check.png; path = SoFit/Images/Check.png; sourceTree = "<group>"; };
+		361C87CB1520BC48008076FE /* UnCheck.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = UnCheck.png; path = SoFit/Images/UnCheck.png; sourceTree = "<group>"; };
+		361C87CF1520C80F008076FE /* StrengthCategory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = StrengthCategory.h; path = SoFit/StrengthCategory/StrengthCategory.h; sourceTree = "<group>"; };
+		361C87D01520C80F008076FE /* StrengthCategory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = StrengthCategory.m; path = SoFit/StrengthCategory/StrengthCategory.m; sourceTree = "<group>"; };
+		361C87D11520C80F008076FE /* StrengthCategory.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = StrengthCategory.xib; path = SoFit/StrengthCategory/StrengthCategory.xib; sourceTree = "<group>"; };
+		361F4F2C15207131008958B3 /* StrengthList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = StrengthList.h; path = SoFit/Strength/StrengthList.h; sourceTree = "<group>"; };
+		361F4F2D15207131008958B3 /* StrengthList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = StrengthList.m; path = SoFit/Strength/StrengthList.m; sourceTree = "<group>"; };
+		361F4F2E15207131008958B3 /* StrengthList.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = StrengthList.xib; path = SoFit/Strength/StrengthList.xib; sourceTree = "<group>"; };
+		361F4F32152080A0008958B3 /* NumberKeypadDecimalPoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NumberKeypadDecimalPoint.h; path = SoFit/NumberPad/NumberKeypadDecimalPoint.h; sourceTree = "<group>"; };
+		361F4F33152080A0008958B3 /* NumberKeypadDecimalPoint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NumberKeypadDecimalPoint.m; path = SoFit/NumberPad/NumberKeypadDecimalPoint.m; sourceTree = "<group>"; };
+		361F4F3515208202008958B3 /* decimalKeyDownBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = decimalKeyDownBackground.png; path = SoFit/Images/decimalKeyDownBackground.png; sourceTree = "<group>"; };
 		362A99E81519E50C00A390D4 /* WaazAppLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = WaazAppLogo.png; path = SoFit/Images/WaazAppLogo.png; sourceTree = "<group>"; };
 		362A99E91519E50C00A390D4 /* WaazAppRetina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = WaazAppRetina.png; path = SoFit/Images/WaazAppRetina.png; sourceTree = "<group>"; };
 		362A99F01519E57500A390D4 /* WorkOutRoutines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WorkOutRoutines.h; path = SoFit/WorkOutRoutines/WorkOutRoutines.h; sourceTree = "<group>"; };
@@ -73,12 +91,10 @@
 		362A99F61519EBFC00A390D4 /* WeightManagementCardio.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WeightManagementCardio.h; path = "SoFit/WeightManagement:Cardio/WeightManagementCardio.h"; sourceTree = "<group>"; };
 		362A99F71519EBFC00A390D4 /* WeightManagementCardio.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = WeightManagementCardio.m; path = "SoFit/WeightManagement:Cardio/WeightManagementCardio.m"; sourceTree = "<group>"; };
 		362A99F81519EBFC00A390D4 /* WeightManagementCardio.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = WeightManagementCardio.xib; path = "SoFit/WeightManagement:Cardio/WeightManagementCardio.xib"; sourceTree = "<group>"; };
-		362A99FF1519FCE100A390D4 /* TestFormattingClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TestFormattingClass.h; path = SoFit/ObjectClassFiles/TestFormattingClass.h; sourceTree = "<group>"; };
-		362A9A001519FCE100A390D4 /* TestFormattingClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TestFormattingClass.m; path = SoFit/ObjectClassFiles/TestFormattingClass.m; sourceTree = "<group>"; };
+		362A99FF1519FCE100A390D4 /* TextFormattingClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TextFormattingClass.h; path = SoFit/ObjectClassFiles/TextFormattingClass.h; sourceTree = "<group>"; };
+		362A9A001519FCE100A390D4 /* TextFormattingClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TextFormattingClass.m; path = SoFit/ObjectClassFiles/TextFormattingClass.m; sourceTree = "<group>"; };
 		362A9A021519FFE100A390D4 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		362A9A0C151A0FE100A390D4 /* iAd.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iAd.framework; path = System/Library/Frameworks/iAd.framework; sourceTree = SDKROOT; };
-		362A9A0E151A135700A390D4 /* UnCheck.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = UnCheck.png; path = SoFit/Images/UnCheck.png; sourceTree = "<group>"; };
-		362A9A0F151A135700A390D4 /* Check.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Check.png; path = SoFit/Images/Check.png; sourceTree = "<group>"; };
 		362A9A13151A175000A390D4 /* CardioWorkout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CardioWorkout.h; path = SoFit/CardioWorkout/CardioWorkout.h; sourceTree = "<group>"; };
 		362A9A14151A175000A390D4 /* CardioWorkout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CardioWorkout.m; path = SoFit/CardioWorkout/CardioWorkout.m; sourceTree = "<group>"; };
 		362A9A15151A175000A390D4 /* CardioWorkout.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = CardioWorkout.xib; path = SoFit/CardioWorkout/CardioWorkout.xib; sourceTree = "<group>"; };
@@ -121,6 +137,7 @@
 		36994F7B151CBA9800D9CD0D /* LoginView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LoginView.h; path = SoFit/LoginView/LoginView.h; sourceTree = "<group>"; };
 		36994F7C151CBA9800D9CD0D /* LoginView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LoginView.m; path = SoFit/LoginView/LoginView.m; sourceTree = "<group>"; };
 		36994F7D151CBA9800D9CD0D /* LoginView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = LoginView.xib; path = SoFit/LoginView/LoginView.xib; sourceTree = "<group>"; };
+		36D698EA1520AB3900B02CF6 /* workout.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = workout.png; path = SoFit/Images/workout.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,6 +159,9 @@
 		36116C391518ED340007A301 = {
 			isa = PBXGroup;
 			children = (
+				361C87CE1520C7F5008076FE /* StrengthCategory */,
+				361F4F311520808F008958B3 /* NumberPad */,
+				361F4F2A15206B98008958B3 /* Strength */,
 				36994F7A151CBA8700D9CD0D /* LoginView */,
 				36994F5B151C7E4D00D9CD0D /* WhoIsNear */,
 				36994F55151C7E2A00D9CD0D /* UserRegistration */,
@@ -207,6 +227,35 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		361C87CE1520C7F5008076FE /* StrengthCategory */ = {
+			isa = PBXGroup;
+			children = (
+				361C87CF1520C80F008076FE /* StrengthCategory.h */,
+				361C87D01520C80F008076FE /* StrengthCategory.m */,
+				361C87D11520C80F008076FE /* StrengthCategory.xib */,
+			);
+			name = StrengthCategory;
+			sourceTree = "<group>";
+		};
+		361F4F2A15206B98008958B3 /* Strength */ = {
+			isa = PBXGroup;
+			children = (
+				361F4F2C15207131008958B3 /* StrengthList.h */,
+				361F4F2D15207131008958B3 /* StrengthList.m */,
+				361F4F2E15207131008958B3 /* StrengthList.xib */,
+			);
+			name = Strength;
+			sourceTree = "<group>";
+		};
+		361F4F311520808F008958B3 /* NumberPad */ = {
+			isa = PBXGroup;
+			children = (
+				361F4F32152080A0008958B3 /* NumberKeypadDecimalPoint.h */,
+				361F4F33152080A0008958B3 /* NumberKeypadDecimalPoint.m */,
+			);
+			name = NumberPad;
+			sourceTree = "<group>";
+		};
 		362A99E31519E44200A390D4 /* WorkOutRoutines */ = {
 			isa = PBXGroup;
 			children = (
@@ -220,8 +269,10 @@
 		362A99E51519E45500A390D4 /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				362A9A0E151A135700A390D4 /* UnCheck.png */,
-				362A9A0F151A135700A390D4 /* Check.png */,
+				361C87CA1520BC48008076FE /* Check.png */,
+				361C87CB1520BC48008076FE /* UnCheck.png */,
+				36D698EA1520AB3900B02CF6 /* workout.png */,
+				361F4F3515208202008958B3 /* decimalKeyDownBackground.png */,
 				362A99E81519E50C00A390D4 /* WaazAppLogo.png */,
 				362A99E91519E50C00A390D4 /* WaazAppRetina.png */,
 			);
@@ -241,8 +292,8 @@
 		362A99FE1519FCAB00A390D4 /* ObjectClassFiles */ = {
 			isa = PBXGroup;
 			children = (
-				362A99FF1519FCE100A390D4 /* TestFormattingClass.h */,
-				362A9A001519FCE100A390D4 /* TestFormattingClass.m */,
+				362A99FF1519FCE100A390D4 /* TextFormattingClass.h */,
+				362A9A001519FCE100A390D4 /* TextFormattingClass.m */,
 			);
 			name = ObjectClassFiles;
 			sourceTree = "<group>";
@@ -443,8 +494,6 @@
 				362A99EB1519E50C00A390D4 /* WaazAppRetina.png in Resources */,
 				362A99F41519E57500A390D4 /* WorkOutRoutines.xib in Resources */,
 				362A99FA1519EBFC00A390D4 /* WeightManagementCardio.xib in Resources */,
-				362A9A10151A135700A390D4 /* UnCheck.png in Resources */,
-				362A9A11151A135700A390D4 /* Check.png in Resources */,
 				362A9A17151A175000A390D4 /* CardioWorkout.xib in Resources */,
 				36994F1D151C793C00D9CD0D /* AboutWaazApp.xib in Resources */,
 				36994F24151C79AD00D9CD0D /* ForgotPassword.xib in Resources */,
@@ -459,6 +508,12 @@
 				36994F60151C7E5C00D9CD0D /* WhoIsNearViewController.xib in Resources */,
 				36994F79151CBA2A00D9CD0D /* SplashScreen.xib in Resources */,
 				36994F7F151CBA9800D9CD0D /* LoginView.xib in Resources */,
+				361F4F3015207131008958B3 /* StrengthList.xib in Resources */,
+				361F4F3615208202008958B3 /* decimalKeyDownBackground.png in Resources */,
+				36D698EB1520AB3900B02CF6 /* workout.png in Resources */,
+				361C87CC1520BC48008076FE /* Check.png in Resources */,
+				361C87CD1520BC48008076FE /* UnCheck.png in Resources */,
+				361C87D31520C80F008076FE /* StrengthCategory.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -473,7 +528,7 @@
 				36116C591518ED350007A301 /* AppDelegate.m in Sources */,
 				362A99F31519E57500A390D4 /* WorkOutRoutines.m in Sources */,
 				362A99F91519EBFC00A390D4 /* WeightManagementCardio.m in Sources */,
-				362A9A011519FCE100A390D4 /* TestFormattingClass.m in Sources */,
+				362A9A011519FCE100A390D4 /* TextFormattingClass.m in Sources */,
 				362A9A16151A175000A390D4 /* CardioWorkout.m in Sources */,
 				36994F1C151C793C00D9CD0D /* AboutWaazApp.m in Sources */,
 				36994F23151C79AD00D9CD0D /* ForgotPassword.m in Sources */,
@@ -488,6 +543,9 @@
 				36994F5F151C7E5C00D9CD0D /* WhoIsNearViewController.m in Sources */,
 				36994F78151CBA2A00D9CD0D /* SplashScreen.m in Sources */,
 				36994F7E151CBA9800D9CD0D /* LoginView.m in Sources */,
+				361F4F2F15207131008958B3 /* StrengthList.m in Sources */,
+				361F4F34152080A0008958B3 /* NumberKeypadDecimalPoint.m in Sources */,
+				361C87D21520C80F008076FE /* StrengthCategory.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -511,7 +569,8 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				CLANG_ENABLE_OBJC_ARC = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Vijay Sasidaran (93E69Q9PB2)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Vijay Sasidaran (93E69Q9PB2)";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -525,7 +584,9 @@
 				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				PROVISIONING_PROFILE = "2B8486E9-100F-45BF-AA79-22D370F88843";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "2B8486E9-100F-45BF-AA79-22D370F88843";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -536,6 +597,7 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Vijay Sasidaran (93E69Q9PB2)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -543,8 +605,9 @@
 				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "2B8486E9-100F-45BF-AA79-22D370F88843";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};

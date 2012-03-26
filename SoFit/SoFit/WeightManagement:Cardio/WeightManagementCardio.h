@@ -7,17 +7,15 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <iAd/iAd.h>
 
-@interface WeightManagementCardio : UIViewController<ADBannerViewDelegate>{
-  ADBannerView *adView;
+@interface WeightManagementCardio : UIViewController{
   BOOL bannerIsVisible;
 }
 
 @property (nonatomic,assign) BOOL bannerIsVisible;
-@property (weak, nonatomic) IBOutlet UIButton *add;
-@property (weak, nonatomic) IBOutlet UIButton *edit;
-@property (weak, nonatomic) IBOutlet UITableView *exerciseTable;
+@property (strong, nonatomic) IBOutlet UIButton *add;
+@property (strong, nonatomic) IBOutlet UIButton *edit;
+@property (strong, nonatomic) IBOutlet UITableView *exerciseTable;
 @property(nonatomic,retain) NSMutableArray *cardioExerciseName;
 - (IBAction)buttonClicked:(id)sender;
 @end

@@ -8,7 +8,9 @@
 
 #import "WorkOutRoutines.h"
 #import "WeightManagementCardio.h"
-#import "TestFormattingClass.h"
+#import "StrengthList.h"
+#import "TextFormattingClass.h"
+
 
 @implementation WorkOutRoutines
 
@@ -32,8 +34,8 @@
 #pragma mark - View lifecycle
 
 - (void)viewWillAppear:(BOOL)animated{  
-  TestFormattingClass *testFormattingClass = [[TestFormattingClass alloc] init];  
-  self.navigationItem.titleView = [testFormattingClass setNavigationtitleWithString:@"Work Out Routines"];
+  TextFormattingClass *textFormattingClass = [[TextFormattingClass alloc] init];  
+  self.navigationItem.titleView = [textFormattingClass setNavigationtitleWithString:@"Work Out Routines"];
 }
 
 - (void)viewDidLoad
@@ -52,7 +54,10 @@
     } 
       break;
     case 2:             //  Strength
-      
+    {
+      StrengthList *strengthList = [[StrengthList alloc] init];
+      [self.navigationController pushViewController:strengthList animated:YES];
+    }
       break;
     case 3:             //  Sports performance
       

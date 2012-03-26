@@ -1,0 +1,1197 @@
+TSoFit
+v4
+r1
+cCheck dependencies
+cCpResource /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist build/Debug-iphoneos/SoFit.app/ResourceRules.plist
+cProcessInfoPlistFile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/Info.plist SoFit/SoFit-Info.plist
+cProcessPCH /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch.pth SoFit/SoFit-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/TextFormattingClass.o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/ObjectClassFiles/TextFormattingClass.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/StrengthList.o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Strength/StrengthList.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/WhoIsNearViewController.o "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Who is Near/WhoIsNearViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/GymLocatorViewController.o "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Gym Locator/GymLocatorViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/main.o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/AppDelegate.o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/WorkOutRoutines.o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WorkOutRoutines/WorkOutRoutines.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/WeightManagementCardio.o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WeightManagement:Cardio/WeightManagementCardio.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/CardioWorkout.o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/CardioWorkout/CardioWorkout.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/AboutWaazApp.o "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/About WaazApp/AboutWaazApp.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/ForgotPassword.o "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Forget passsword/ForgotPassword.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/LetsGetStarted.o "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Lets Get Started/LetsGetStarted.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/MINetworkViewController.o "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/My Network/MINetworkViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/NetworkToFBViewController.o "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Network to FB/NetworkToFBViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/PokeFriendViewController.o "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Poke Friends/PokeFriendViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/UpdatingPage.o "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Screen/UpdatingPage.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/UpdateStatistics.o "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Statistics/UpdateStatistics.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/UserRegistration.o "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/User Regisstration/UserRegistration.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/SplashScreen.o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/SplashScreen/SplashScreen.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/LoginView.o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/LoginView/LoginView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/NumberKeypadDecimalPoint.o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/NumberPad/NumberKeypadDecimalPoint.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/SoFit normal armv7
+cGenerateDSYMFile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app.dSYM /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/SoFit
+cCopyStringsFile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/en.lproj/InfoPlist.strings SoFit/en.lproj/InfoPlist.strings
+cCopyPNGFile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/WaazAppLogo.png SoFit/Images/WaazAppLogo.png
+cCopyPNGFile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/WaazAppRetina.png SoFit/Images/WaazAppRetina.png
+cCompileXIB /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WorkOutRoutines/WorkOutRoutines.xib
+cCompileXIB /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WeightManagement:Cardio/WeightManagementCardio.xib
+cCompileXIB /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/CardioWorkout/CardioWorkout.xib
+cCompileXIB "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/About WaazApp/AboutWaazApp.xib"
+cCompileXIB "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Forget passsword/ForgotPassword.xib"
+cCompileXIB "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Gym Locator/GymLocatorViewController.xib"
+cCompileXIB "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Lets Get Started/LetsGetStarted.xib"
+cCompileXIB "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/My Network/MINetworkViewController.xib"
+cCompileXIB "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Network to FB/NetworkToFBViewController.xib"
+cCompileXIB "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Poke Friends/PokeFriendViewController.xib"
+cCompileXIB "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Screen/UpdatingPage.xib"
+cCompileXIB "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Statistics/UpdateStatistics.xib"
+cCompileXIB "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/User Regisstration/UserRegistration.xib"
+cCompileXIB "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Who is Near/WhoIsNearViewController.xib"
+cCompileXIB /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/SplashScreen/SplashScreen.xib
+cCompileXIB /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/LoginView/LoginView.xib
+cCompileXIB /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Strength/StrengthList.xib
+cCopyPNGFile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/decimalKeyDownBackground.png SoFit/Images/decimalKeyDownBackground.png
+cCopyPNGFile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/workout.png SoFit/Images/workout.png
+cCopyPNGFile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/Check.png SoFit/Images/Check.png
+cCopyPNGFile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/UnCheck.png SoFit/Images/UnCheck.png
+cProcessProductPackaging "/Users/cgvak/Library/MobileDevice/Provisioning Profiles/2B8486E9-100F-45BF-AA79-22D370F88843.mobileprovision" /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/cgvak/Library/MobileDevice/Provisioning Profiles/2B8486E9-100F-45BF-AA79-22D370F88843.mobileprovision" /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/embedded.mobileprovision
+cTouch /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit.xcent
+cCodeSign /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk
+c000000004E7840290000000000000110
+t1316503593
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist
+c000000004E5C595800000000000001A7
+t1314675032
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist
+c000000004E5C595800000000000001E5
+t1314675032
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F28700000000003AB0A0
+t1316156039
+s3846304
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F3440000000000529540
+t1316156228
+s5412160
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004E72F8910000000000173260
+t1316157585
+s1520224
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7808C7000000000078BE50
+t1316489415
+s7913040
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/iAd.framework/iAd
+c000000004E780CB70000000000031FD0
+t1316490423
+s204752
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/About WaazApp/AboutWaazApp.m
+c000000004F6C5A1900000000000005C2
+t1332501017
+s1474
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/About WaazApp/AboutWaazApp.xib
+c000000004F6C5A190000000000001428
+t1332501017
+s5160
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/AppDelegate.m
+c000000004F6C842F0000000000000D9F
+t1332511791
+s3487
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/CardioWorkout/CardioWorkout.m
+c000000004F706216000000000000218A
+t1332765206
+s8586
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/CardioWorkout/CardioWorkout.xib
+c000000004F7055B8000000000000D385
+t1332762040
+s54149
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Forget passsword/ForgotPassword.m
+c000000004F6C5A19000000000000064A
+t1332501017
+s1610
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Forget passsword/ForgotPassword.xib
+c000000004F6C5A190000000000003FD7
+t1332501017
+s16343
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Gym Locator/GymLocatorViewController.m
+c000000004F6C5A1900000000000004A3
+t1332501017
+s1187
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Gym Locator/GymLocatorViewController.xib
+c000000004F6C5A19000000000000144C
+t1332501017
+s5196
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Images/Check.png
+c000000004F6C5A19000000000000030E
+t1332501017
+s782
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Images/UnCheck.png
+c000000004F6C5A190000000000000242
+t1332501017
+s578
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Images/WaazAppLogo.png
+c000000004F6C5A1900000000000010AE
+t1332501017
+s4270
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Images/WaazAppRetina.png
+c000000004F6C5A190000000000002EEF
+t1332501017
+s12015
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Images/decimalKeyDownBackground.png
+c000000004F704A5C000000000000124A
+t1332759132
+s4682
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Images/workout.png
+c000000004F7073860000000000009664
+t1332769670
+s38500
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Lets Get Started/LetsGetStarted.m
+c000000004F6C843B00000000000007A9
+t1332511803
+s1961
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Lets Get Started/LetsGetStarted.xib
+c000000004F6C5A190000000000004F85
+t1332501017
+s20357
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/LoginView/LoginView.m
+c000000004F6C5A1900000000000007AB
+t1332501017
+s1963
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/LoginView/LoginView.xib
+c000000004F6C5A19000000000000527F
+t1332501017
+s21119
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/My Network/MINetworkViewController.m
+c000000004F6C5A190000000000000CD2
+t1332501017
+s3282
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/My Network/MINetworkViewController.xib
+c000000004F6C5A1900000000000059AA
+t1332501017
+s22954
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Network to FB/NetworkToFBViewController.m
+c000000004F6C5A1900000000000004A3
+t1332501017
+s1187
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Network to FB/NetworkToFBViewController.xib
+c000000004F6C5A19000000000000144F
+t1332501017
+s5199
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/NumberPad/NumberKeypadDecimalPoint.m
+c000000004F704B9E0000000000000E0F
+t1332759454
+s3599
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/ObjectClassFiles/TextFormattingClass.m
+c000000004F7063E600000000000008F4
+t1332765670
+s2292
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Poke Friends/PokeFriendViewController.m
+c000000004F6C5A1900000000000004AB
+t1332501017
+s1195
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Poke Friends/PokeFriendViewController.xib
+c000000004F7078DF00000000000014A7
+t1332771039
+s5287
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/SoFit-Prefix.pch
+c000000004F6C5A190000000000000135
+t1332501017
+s309
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/SplashScreen/SplashScreen.m
+c000000004F6C5A190000000000000466
+t1332501017
+s1126
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/SplashScreen/SplashScreen.xib
+c000000004F6C5A1900000000000035DA
+t1332501017
+s13786
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Strength/StrengthList.m
+c000000004F707CA70000000000000DF9
+t1332772007
+s3577
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Strength/StrengthList.xib
+c000000004F7072B30000000000001FCF
+t1332769459
+s8143
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Screen/UpdatingPage.m
+c000000004F6C5A19000000000000049D
+t1332501017
+s1181
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Screen/UpdatingPage.xib
+c000000004F6C5A190000000000001428
+t1332501017
+s5160
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Statistics/UpdateStatistics.m
+c000000004F6C5A1900000000000004A9
+t1332501017
+s1193
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Statistics/UpdateStatistics.xib
+c000000004F6C5A190000000000001434
+t1332501017
+s5172
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/User Regisstration/UserRegistration.m
+c000000004F6C5A190000000000000886
+t1332501017
+s2182
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/User Regisstration/UserRegistration.xib
+c000000004F6C5A190000000000009857
+t1332501017
+s38999
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WeightManagement:Cardio/WeightManagementCardio.m
+c000000004F706384000000000000115C
+t1332765572
+s4444
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WeightManagement:Cardio/WeightManagementCardio.xib
+c000000004F6C5A190000000000004441
+t1332501017
+s17473
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Who is Near/WhoIsNearViewController.m
+c000000004F6C5A19000000000000049F
+t1332501017
+s1183
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Who is Near/WhoIsNearViewController.xib
+c000000004F6C5A190000000000001449
+t1332501017
+s5193
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WorkOutRoutines/WorkOutRoutines.m
+c000000004F7061C500000000000008E5
+t1332765125
+s2277
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WorkOutRoutines/WorkOutRoutines.xib
+c000000004F705E560000000000004392
+t1332764246
+s17298
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/en.lproj/InfoPlist.strings
+c000000004F6C5A19000000000000002D
+t1332501017
+s45
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/main.m
+c000000004F6C83500000000000000149
+t1332511568
+s329
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app.dSYM
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/AboutWaazApp.nib
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/CardioWorkout.nib
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/Check.png
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/ForgotPassword.nib
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/GymLocatorViewController.nib
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/Info.plist
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/LetsGetStarted.nib
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/LoginView.nib
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/MINetworkViewController.nib
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/NetworkToFBViewController.nib
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/PkgInfo
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/PokeFriendViewController.nib
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/ResourceRules.plist
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/SoFit
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/SplashScreen.nib
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/StrengthList.nib
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/UnCheck.png
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/UpdateStatistics.nib
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/UpdatingPage.nib
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/UserRegistration.nib
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/WaazAppLogo.png
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/WaazAppRetina.png
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/WeightManagementCardio.nib
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/WhoIsNearViewController.nib
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/WorkOutRoutines.nib
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/decimalKeyDownBackground.png
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/workout.png
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/AboutWaazApp.o
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/AppDelegate.o
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/CardioWorkout.o
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/ForgotPassword.o
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/GymLocatorViewController.o
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/LetsGetStarted.o
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/LoginView.o
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/MINetworkViewController.o
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/NetworkToFBViewController.o
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/NumberKeypadDecimalPoint.o
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/PokeFriendViewController.o
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/SoFit.LinkFileList
+c000000004F7085230000000000000BC3
+t1332774179
+s3011
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/SplashScreen.o
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/StrengthList.o
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/TextFormattingClass.o
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/UpdateStatistics.o
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/UpdatingPage.o
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/UserRegistration.o
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/WeightManagementCardio.o
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/WhoIsNearViewController.o
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/WorkOutRoutines.o
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit.xcent
+t2
+s0
+
+N/Users/cgvak/Library/MobileDevice/Provisioning Profiles/2B8486E9-100F-45BF-AA79-22D370F88843.mobileprovision
+c000000004F7069F10000000000002101
+t1332767217
+s8449
+
+N/var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch.pth
+t2
+s0
+
+NSoFit/SoFit-Info.plist
+c000000004F70803C00000000000005FB
+t1332772924
+s1531
+
+CBuild AST from "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/About WaazApp/AboutWaazApp.m"
+r0
+
+CBuild AST from "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Forget passsword/ForgotPassword.m"
+r0
+
+CBuild AST from "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Gym Locator/GymLocatorViewController.m"
+r0
+
+CBuild AST from "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Lets Get Started/LetsGetStarted.m"
+r0
+
+CBuild AST from "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/My Network/MINetworkViewController.m"
+r0
+
+CBuild AST from "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Network to FB/NetworkToFBViewController.m"
+r0
+
+CBuild AST from "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Poke Friends/PokeFriendViewController.m"
+r0
+
+CBuild AST from "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Screen/UpdatingPage.m"
+r0
+
+CBuild AST from "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Statistics/UpdateStatistics.m"
+r0
+
+CBuild AST from "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/User Regisstration/UserRegistration.m"
+r0
+
+CBuild AST from "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Who is Near/WhoIsNearViewController.m"
+r0
+
+CBuild AST from /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/AppDelegate.m
+r0
+
+CBuild AST from /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/CardioWorkout/CardioWorkout.m
+r0
+
+CBuild AST from /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/LoginView/LoginView.m
+r0
+
+CBuild AST from /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/NumberPad/NumberKeypadDecimalPoint.m
+r0
+
+CBuild AST from /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/ObjectClassFiles/TextFormattingClass.m
+r0
+
+CBuild AST from /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/SplashScreen/SplashScreen.m
+r0
+
+CBuild AST from /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Strength/StrengthList.m
+r0
+
+CBuild AST from /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WeightManagement:Cardio/WeightManagementCardio.m
+r0
+
+CBuild AST from /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WorkOutRoutines/WorkOutRoutines.m
+r0
+
+CBuild AST from /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies5b5b64a3bc20b541^3acb8ca3bc20b541^---0#1#0#--18"Check dependencies36"EBF966CE-0E9D-4659-AAF8-0C171ABBCA3D-
+
+CCodeSign /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app
+s354466980.982435
+e354466981.168644
+r1
+xCodeSign
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"CodeSign build/Debug-iphoneos/SoFit.app4b92fba4bc20b541^4d2d2ba5bc20b541^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/0000000000000000^764"CodeSign build/Debug-iphoneos/SoFit.app    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign "iPhone Developer: Vijay Sasidaran (93E69Q9PB2)" --resource-rules=/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/ResourceRules.plist --entitlements /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit.xcent /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app36"9F64AD72-AA60-4AAB-80E1-BB5A9E209306-
+
+CCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/AboutWaazApp.o "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/About WaazApp/AboutWaazApp.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354466980.001576
+e354466980.096956
+r1
+xCompileC
+xbuild/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/AboutWaazApp.o
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/About WaazApp/AboutWaazApp.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/About WaazApp/AboutWaazApp.m759300a4bc20b541^4cde18a4bc20b541^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/About%20WaazApp/AboutWaazApp.m0000000000000000^2674"CompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/AboutWaazApp.o "SoFit/About WaazApp/AboutWaazApp.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-generated-files.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-own-target-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-all-target-headers.hmap -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-project-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/include -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources/armv7 -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources -F/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos -include /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch -MMD -MT dependencies -MF /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/AboutWaazApp.d -c "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/About WaazApp/AboutWaazApp.m" -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/AboutWaazApp.o36"79169D25-D378-4072-B090-44E9CBC16927-
+
+CCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/AppDelegate.o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354466979.903212
+e354466980.000088
+r1
+xCompileC
+xbuild/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/AppDelegate.o
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/AppDelegate.md866e7a3bc20b541^e91000a4bc20b541^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/AppDelegate.m0000000000000000^2637"CompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/AppDelegate.o SoFit/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-generated-files.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-own-target-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-all-target-headers.hmap -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-project-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/include -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources/armv7 -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources -F/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos -include /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch -MMD -MT dependencies -MF /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/AppDelegate.d -c /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/AppDelegate.m -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/AppDelegate.o36"2971DB1A-858F-46A9-BA9F-3E25C295B327-
+
+CCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/CardioWorkout.o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/CardioWorkout/CardioWorkout.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354466979.934991
+e354466980.090669
+r1
+xCompileC
+xbuild/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/CardioWorkout.o
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/CardioWorkout/CardioWorkout.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/CardioWorkout/CardioWorkout.med80efa3bc20b541^2c4417a4bc20b541^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/CardioWorkout/CardioWorkout.m0000000000000000^2675"CompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/CardioWorkout.o SoFit/CardioWorkout/CardioWorkout.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-generated-files.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-own-target-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-all-target-headers.hmap -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-project-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/include -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources/armv7 -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources -F/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos -include /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch -MMD -MT dependencies -MF /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/CardioWorkout.d -c /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/CardioWorkout/CardioWorkout.m -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/CardioWorkout.o36"FA1AC298-9762-4127-805C-A70636F8DD9A-
+
+CCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/ForgotPassword.o "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Forget passsword/ForgotPassword.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354466980.013516
+e354466980.102007
+r1
+xCompileC
+xbuild/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/ForgotPassword.o
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Forget passsword/ForgotPassword.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Forget passsword/ForgotPassword.m9d9e03a4bc20b541^89241aa4bc20b541^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Forget%20passsword/ForgotPassword.m0000000000000000^2690"CompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/ForgotPassword.o "SoFit/Forget passsword/ForgotPassword.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-generated-files.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-own-target-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-all-target-headers.hmap -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-project-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/include -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources/armv7 -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources -F/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos -include /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch -MMD -MT dependencies -MF /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/ForgotPassword.d -c "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Forget passsword/ForgotPassword.m" -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/ForgotPassword.o36"9413D05D-1E87-43D9-A6B0-7F1141CCBAB8-
+
+CCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/GymLocatorViewController.o "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Gym Locator/GymLocatorViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354466979.815384
+e354466979.901928
+r1
+xCompileC
+xbuild/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/GymLocatorViewController.o
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Gym Locator/GymLocatorViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Gym Locator/GymLocatorViewController.m9cdfd0a3bc20b541^8fe4e6a3bc20b541^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Gym%20Locator/GymLocatorViewController.m0000000000000000^2730"CompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/GymLocatorViewController.o "SoFit/Gym Locator/GymLocatorViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-generated-files.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-own-target-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-all-target-headers.hmap -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-project-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/include -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources/armv7 -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources -F/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos -include /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch -MMD -MT dependencies -MF /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/GymLocatorViewController.d -c "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Gym Locator/GymLocatorViewController.m" -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/GymLocatorViewController.o36"6983E83A-C57C-4411-8F5F-16BB7E7E7072-
+
+CCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/LetsGetStarted.o "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Lets Get Started/LetsGetStarted.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354466980.059107
+e354466980.140909
+r1
+xCompileC
+xbuild/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/LetsGetStarted.o
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Lets Get Started/LetsGetStarted.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Lets Get Started/LetsGetStarted.md8470fa4bc20b541^c52024a4bc20b541^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Lets%20Get%20Started/LetsGetStarted.m0000000000000000^2690"CompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/LetsGetStarted.o "SoFit/Lets Get Started/LetsGetStarted.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-generated-files.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-own-target-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-all-target-headers.hmap -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-project-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/include -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources/armv7 -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources -F/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos -include /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch -MMD -MT dependencies -MF /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/LetsGetStarted.d -c "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Lets Get Started/LetsGetStarted.m" -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/LetsGetStarted.o36"2B631962-2E41-49BE-9F45-857665A2F663-
+
+CCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/LoginView.o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/LoginView/LoginView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354466980.249781
+e354466980.337124
+r1
+xCompileC
+xbuild/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/LoginView.o
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/LoginView/LoginView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/LoginView/LoginView.mc61440a4bc20b541^484e56a4bc20b541^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/LoginView/LoginView.m0000000000000000^2647"CompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/LoginView.o SoFit/LoginView/LoginView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-generated-files.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-own-target-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-all-target-headers.hmap -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-project-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/include -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources/armv7 -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources -F/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos -include /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch -MMD -MT dependencies -MF /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/LoginView.d -c /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/LoginView/LoginView.m -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/LoginView.o36"0E4FF26D-EBDB-44B0-AA91-CA67C3737862-
+
+CCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/MINetworkViewController.o "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/My Network/MINetworkViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354466980.091945
+e354466980.216755
+r1
+xCompileC
+xbuild/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/MINetworkViewController.o
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/My Network/MINetworkViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/My Network/MINetworkViewController.md1b117a4bc20b541^857d37a4bc20b541^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/My%20Network/MINetworkViewController.m0000000000000000^2723"CompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/MINetworkViewController.o "SoFit/My Network/MINetworkViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-generated-files.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-own-target-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-all-target-headers.hmap -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-project-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/include -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources/armv7 -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources -F/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos -include /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch -MMD -MT dependencies -MF /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/MINetworkViewController.d -c "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/My Network/MINetworkViewController.m" -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/MINetworkViewController.o36"88F4A7B7-61C5-4882-B189-897A48CDA63E-
+
+CCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/NetworkToFBViewController.o "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Network to FB/NetworkToFBViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354466980.098193
+e354466980.183631
+r1
+xCompileC
+xbuild/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/NetworkToFBViewController.o
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Network to FB/NetworkToFBViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Network to FB/NetworkToFBViewController.m244819a4bc20b541^a20e2fa4bc20b541^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Network%20to%20FB/NetworkToFBViewController.m0000000000000000^2739"CompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/NetworkToFBViewController.o "SoFit/Network to FB/NetworkToFBViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-generated-files.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-own-target-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-all-target-headers.hmap -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-project-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/include -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources/armv7 -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources -F/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos -include /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch -MMD -MT dependencies -MF /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/NetworkToFBViewController.d -c "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Network to FB/NetworkToFBViewController.m" -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/NetworkToFBViewController.o36"66E45155-4F88-46D2-8247-3543E4A132E4-
+
+CCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/NumberKeypadDecimalPoint.o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/NumberPad/NumberKeypadDecimalPoint.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354466980.265710
+e354466980.355600
+r1
+xCompileC
+xbuild/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/NumberKeypadDecimalPoint.o
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/NumberPad/NumberKeypadDecimalPoint.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/NumberPad/NumberKeypadDecimalPoint.m0a2c44a4bc20b541^31095ba4bc20b541^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/NumberPad/NumberKeypadDecimalPoint.m0000000000000000^2722"CompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/NumberKeypadDecimalPoint.o SoFit/NumberPad/NumberKeypadDecimalPoint.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-generated-files.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-own-target-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-all-target-headers.hmap -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-project-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/include -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources/armv7 -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources -F/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos -include /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch -MMD -MT dependencies -MF /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/NumberKeypadDecimalPoint.d -c /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/NumberPad/NumberKeypadDecimalPoint.m -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/NumberKeypadDecimalPoint.o36"AFD5D822-6885-4E5F-9B89-D58992E234BF-
+
+CCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/PokeFriendViewController.o "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Poke Friends/PokeFriendViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354466980.103246
+e354466980.195270
+r1
+xCompileC
+xbuild/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/PokeFriendViewController.o
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Poke Friends/PokeFriendViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Poke Friends/PokeFriendViewController.m8e931aa4bc20b541^fa0a32a4bc20b541^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Poke%20Friends/PokeFriendViewController.m0000000000000000^2732"CompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/PokeFriendViewController.o "SoFit/Poke Friends/PokeFriendViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-generated-files.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-own-target-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-all-target-headers.hmap -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-project-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/include -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources/armv7 -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources -F/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos -include /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch -MMD -MT dependencies -MF /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/PokeFriendViewController.d -c "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Poke Friends/PokeFriendViewController.m" -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/PokeFriendViewController.o36"CF83B846-E0EC-483B-9EBD-439C8514549F-
+
+CCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/SplashScreen.o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/SplashScreen/SplashScreen.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354466980.218083
+e354466980.304275
+r1
+xCompileC
+xbuild/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/SplashScreen.o
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/SplashScreen/SplashScreen.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/SplashScreen/SplashScreen.mcefb37a4bc20b541^7ee54da4bc20b541^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/SplashScreen/SplashScreen.m0000000000000000^2668"CompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/SplashScreen.o SoFit/SplashScreen/SplashScreen.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-generated-files.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-own-target-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-all-target-headers.hmap -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-project-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/include -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources/armv7 -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources -F/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos -include /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch -MMD -MT dependencies -MF /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/SplashScreen.d -c /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/SplashScreen/SplashScreen.m -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/SplashScreen.o36"DEE75D14-892D-4584-9C0F-EE01511D0530-
+
+CCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/StrengthList.o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Strength/StrengthList.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354466979.815365
+e354466979.926090
+r1
+xCompileC
+xbuild/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/StrengthList.o
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Strength/StrengthList.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Strength/StrengthList.mafead0a3bc20b541^8f1ceda3bc20b541^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Strength/StrengthList.m0000000000000000^2660"CompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/StrengthList.o SoFit/Strength/StrengthList.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-generated-files.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-own-target-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-all-target-headers.hmap -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-project-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/include -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources/armv7 -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources -F/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos -include /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch -MMD -MT dependencies -MF /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/StrengthList.d -c /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Strength/StrengthList.m -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/StrengthList.o36"6A114D37-BC88-4175-A31A-C02729F80F24-
+
+CCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/TextFormattingClass.o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/ObjectClassFiles/TextFormattingClass.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354466979.815177
+e354466979.926425
+r1
+xCompileC
+xbuild/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/TextFormattingClass.o
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/ObjectClassFiles/TextFormattingClass.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/ObjectClassFiles/TextFormattingClass.m2dced0a3bc20b541^4e2beda3bc20b541^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/ObjectClassFiles/TextFormattingClass.m0000000000000000^2711"CompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/TextFormattingClass.o SoFit/ObjectClassFiles/TextFormattingClass.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-generated-files.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-own-target-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-all-target-headers.hmap -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-project-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/include -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources/armv7 -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources -F/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos -include /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch -MMD -MT dependencies -MF /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/TextFormattingClass.d -c /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/ObjectClassFiles/TextFormattingClass.m -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/TextFormattingClass.o36"5499CF70-0347-4CA1-A2E6-085AAC35B93F-
+
+CCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/UpdateStatistics.o "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Statistics/UpdateStatistics.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354466980.184939
+e354466980.264449
+r1
+xCompileC
+xbuild/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/UpdateStatistics.o
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Statistics/UpdateStatistics.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Statistics/UpdateStatistics.maa7c2fa4bc20b541^e2b143a4bc20b541^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update%20Statistics/UpdateStatistics.m0000000000000000^2702"CompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/UpdateStatistics.o "SoFit/Update Statistics/UpdateStatistics.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-generated-files.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-own-target-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-all-target-headers.hmap -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-project-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/include -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources/armv7 -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources -F/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos -include /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch -MMD -MT dependencies -MF /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/UpdateStatistics.d -c "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Statistics/UpdateStatistics.m" -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/UpdateStatistics.o36"48CF9F2A-B34F-4D73-875B-7AA574028E13-
+
+CCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/UpdatingPage.o "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Screen/UpdatingPage.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354466980.142345
+e354466980.248530
+r1
+xCompileC
+xbuild/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/UpdatingPage.o
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Screen/UpdatingPage.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Screen/UpdatingPage.m806525a4bc20b541^b0ad3fa4bc20b541^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update%20Screen/UpdatingPage.m0000000000000000^2674"CompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/UpdatingPage.o "SoFit/Update Screen/UpdatingPage.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-generated-files.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-own-target-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-all-target-headers.hmap -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-project-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/include -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources/armv7 -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources -F/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos -include /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch -MMD -MT dependencies -MF /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/UpdatingPage.d -c "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Screen/UpdatingPage.m" -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/UpdatingPage.o36"3A480AFB-A19D-4056-BBFB-507A078D28E3-
+
+CCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/UserRegistration.o "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/User Regisstration/UserRegistration.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354466980.196684
+e354466980.306798
+r1
+xCompileC
+xbuild/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/UserRegistration.o
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/User Regisstration/UserRegistration.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/User Regisstration/UserRegistration.mc28732a4bc20b541^838a4ea4bc20b541^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/User%20Regisstration/UserRegistration.m0000000000000000^2704"CompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/UserRegistration.o "SoFit/User Regisstration/UserRegistration.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-generated-files.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-own-target-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-all-target-headers.hmap -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-project-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/include -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources/armv7 -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources -F/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos -include /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch -MMD -MT dependencies -MF /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/UserRegistration.d -c "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/User Regisstration/UserRegistration.m" -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/UserRegistration.o36"5D74AE57-1BC6-4822-B1DF-BF542ABFD521-
+
+CCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/WeightManagementCardio.o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WeightManagement:Cardio/WeightManagementCardio.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354466979.927985
+e354466980.057819
+r1
+xCompileC
+xbuild/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/WeightManagementCardio.o
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WeightManagement:Cardio/WeightManagementCardio.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WeightManagement:Cardio/WeightManagementCardio.mf1b7eda3bc20b541^27d90ea4bc20b541^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WeightManagement:Cardio/WeightManagementCardio.m0000000000000000^2744"CompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/WeightManagementCardio.o "SoFit/WeightManagement:Cardio/WeightManagementCardio.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-generated-files.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-own-target-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-all-target-headers.hmap -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-project-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/include -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources/armv7 -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources -F/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos -include /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch -MMD -MT dependencies -MF /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/WeightManagementCardio.d -c "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WeightManagement:Cardio/WeightManagementCardio.m" -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/WeightManagementCardio.o36"A0139E22-FE89-4502-9E43-F7106A9298BE-
+
+CCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/WhoIsNearViewController.o "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Who is Near/WhoIsNearViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354466979.815371
+e354466979.894922
+r1
+xCompileC
+xbuild/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/WhoIsNearViewController.o
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Who is Near/WhoIsNearViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Who is Near/WhoIsNearViewController.ma0e2d0a3bc20b541^9c19e5a3bc20b541^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Who%20is%20Near/WhoIsNearViewController.m0000000000000000^2725"CompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/WhoIsNearViewController.o "SoFit/Who is Near/WhoIsNearViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-generated-files.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-own-target-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-all-target-headers.hmap -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-project-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/include -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources/armv7 -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources -F/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos -include /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch -MMD -MT dependencies -MF /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/WhoIsNearViewController.d -c "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Who is Near/WhoIsNearViewController.m" -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/WhoIsNearViewController.o36"590E6850-281B-49C1-AAB2-02B36EE78285-
+
+CCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/WorkOutRoutines.o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WorkOutRoutines/WorkOutRoutines.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354466979.927393
+e354466980.011825
+r1
+xCompileC
+xbuild/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/WorkOutRoutines.o
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WorkOutRoutines/WorkOutRoutines.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WorkOutRoutines/WorkOutRoutines.m118eeda3bc20b541^c00703a4bc20b541^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WorkOutRoutines/WorkOutRoutines.m0000000000000000^2689"CompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/WorkOutRoutines.o SoFit/WorkOutRoutines/WorkOutRoutines.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-generated-files.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-own-target-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-all-target-headers.hmap -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-project-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/include -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources/armv7 -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources -F/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos -include /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch -MMD -MT dependencies -MF /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/WorkOutRoutines.d -c /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WorkOutRoutines/WorkOutRoutines.m -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/WorkOutRoutines.o36"A96561E4-F284-49F1-9F2A-5FF366B03F67-
+
+CCompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/main.o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354466979.896293
+e354466979.933638
+r1
+xCompileC
+xbuild/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/main.o
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/main.mf19ce5a3bc20b541^5c03efa3bc20b541^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/main.m0000000000000000^2602"CompileC build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/main.o SoFit/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-generated-files.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-own-target-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-all-target-headers.hmap -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-project-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/include -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources/armv7 -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources -F/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos -include /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch -MMD -MT dependencies -MF /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/main.d -c /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/main.m -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/main.o36"5E1ADFFC-3F07-4387-B72B-1D3C8DF5A86E-
+
+CCompileXIB "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/About WaazApp/AboutWaazApp.xib"
+s354466980.538838
+e354466980.582846
+r1
+xCompileXIB
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/About WaazApp/AboutWaazApp.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compiling /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/About WaazApp/AboutWaazApp.xib5b278aa4bc20b541^c93d95a4bc20b541^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/About%20WaazApp/AboutWaazApp.xib0000000000000000^731"CompileXIB "SoFit/About WaazApp/AboutWaazApp.xib"    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/AboutWaazApp.nib "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/About WaazApp/AboutWaazApp.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk36"EABCB97D-F06B-45FA-90A1-06F38F1E1D8D-
+
+CCompileXIB "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Forget passsword/ForgotPassword.xib"
+s354466980.539041
+e354466980.652924
+r1
+xCompileXIB
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Forget passsword/ForgotPassword.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compiling /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Forget passsword/ForgotPassword.xib38108aa4bc20b541^3c4ca7a4bc20b541^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Forget%20passsword/ForgotPassword.xib0000000000000000^743"CompileXIB "SoFit/Forget passsword/ForgotPassword.xib"    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/ForgotPassword.nib "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Forget passsword/ForgotPassword.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk36"C348C63A-BB89-4E63-B4DD-06057444076F-
+
+CCompileXIB "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Gym Locator/GymLocatorViewController.xib"
+s354466980.542408
+e354466980.575824
+r1
+xCompileXIB
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Gym Locator/GymLocatorViewController.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compiling /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Gym Locator/GymLocatorViewController.xib444e8ba4bc20b541^70ee93a4bc20b541^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Gym%20Locator/GymLocatorViewController.xib0000000000000000^763"CompileXIB "SoFit/Gym Locator/GymLocatorViewController.xib"    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/GymLocatorViewController.nib "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Gym Locator/GymLocatorViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk36"3D9ADA5F-25D1-44BB-BE2D-EC8B3941CB19-
+
+CCompileXIB "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Lets Get Started/LetsGetStarted.xib"
+s354466980.577322
+e354466980.645236
+r1
+xCompileXIB
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Lets Get Started/LetsGetStarted.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compiling /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Lets Get Started/LetsGetStarted.xib93e293a4bc20b541^412ea5a4bc20b541^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Lets%20Get%20Started/LetsGetStarted.xib0000000000000000^743"CompileXIB "SoFit/Lets Get Started/LetsGetStarted.xib"    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/LetsGetStarted.nib "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Lets Get Started/LetsGetStarted.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk36"E4932C89-5F34-4F6F-B295-21E763CC675E-
+
+CCompileXIB "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/My Network/MINetworkViewController.xib"
+s354466980.584067
+e354466980.646132
+r1
+xCompileXIB
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/My Network/MINetworkViewController.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compiling /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/My Network/MINetworkViewController.xibd09c95a4bc20b541^766fa5a4bc20b541^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/My%20Network/MINetworkViewController.xib0000000000000000^758"CompileXIB "SoFit/My Network/MINetworkViewController.xib"    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/MINetworkViewController.nib "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/My Network/MINetworkViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk36"F024424F-15C7-4477-A44D-815156C7EAB7-
+
+CCompileXIB "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Network to FB/NetworkToFBViewController.xib"
+s354466980.646673
+e354466980.702934
+r1
+xCompileXIB
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Network to FB/NetworkToFBViewController.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compiling /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Network to FB/NetworkToFBViewController.xib0ccda5a4bc20b541^a301b4a4bc20b541^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Network%20to%20FB/NetworkToFBViewController.xib0000000000000000^770"CompileXIB "SoFit/Network to FB/NetworkToFBViewController.xib"    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/NetworkToFBViewController.nib "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Network to FB/NetworkToFBViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk36"EBABA611-D193-46FC-B42B-6E45FA94CD55-
+
+CCompileXIB "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Poke Friends/PokeFriendViewController.xib"
+s354466980.647699
+e354466980.710437
+r1
+xCompileXIB
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Poke Friends/PokeFriendViewController.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compiling /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Poke Friends/PokeFriendViewController.xib93e4a5a4bc20b541^87fab5a4bc20b541^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Poke%20Friends/PokeFriendViewController.xib0000000000000000^765"CompileXIB "SoFit/Poke Friends/PokeFriendViewController.xib"    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/PokeFriendViewController.nib "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Poke Friends/PokeFriendViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk36"87C65443-D8C9-4D52-B5C0-609F989D2E69-
+
+CCompileXIB "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Screen/UpdatingPage.xib"
+s354466980.654160
+e354466980.684447
+r1
+xCompileXIB
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Screen/UpdatingPage.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compiling /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Screen/UpdatingPage.xibc990a7a4bc20b541^c139afa4bc20b541^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update%20Screen/UpdatingPage.xib0000000000000000^731"CompileXIB "SoFit/Update Screen/UpdatingPage.xib"    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/UpdatingPage.nib "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Screen/UpdatingPage.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk36"13440B1E-05C5-4EDD-BA6B-1860BB5C8BFF-
+
+CCompileXIB "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Statistics/UpdateStatistics.xib"
+s354466980.685663
+e354466980.729747
+r1
+xCompileXIB
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Statistics/UpdateStatistics.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compiling /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Statistics/UpdateStatistics.xib98a3afa4bc20b541^badabaa4bc20b541^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update%20Statistics/UpdateStatistics.xib0000000000000000^751"CompileXIB "SoFit/Update Statistics/UpdateStatistics.xib"    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/UpdateStatistics.nib "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Update Statistics/UpdateStatistics.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk36"18F4EA9F-639E-4E97-B956-859EFAE4D9E2-
+
+CCompileXIB "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/User Regisstration/UserRegistration.xib"
+s354466980.704180
+e354466980.832527
+r1
+xCompileXIB
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/User Regisstration/UserRegistration.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compiling /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/User Regisstration/UserRegistration.xib855db4a4bc20b541^c32bd5a4bc20b541^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/User%20Regisstration/UserRegistration.xib0000000000000000^753"CompileXIB "SoFit/User Regisstration/UserRegistration.xib"    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/UserRegistration.nib "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/User Regisstration/UserRegistration.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk36"76542B82-90FB-4C48-ACD6-A816B860E707-
+
+CCompileXIB "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Who is Near/WhoIsNearViewController.xib"
+s354466980.711657
+e354466980.739752
+r1
+xCompileXIB
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Who is Near/WhoIsNearViewController.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compiling /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Who is Near/WhoIsNearViewController.xibbb47b6a4bc20b541^7061bda4bc20b541^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Who%20is%20Near/WhoIsNearViewController.xib0000000000000000^760"CompileXIB "SoFit/Who is Near/WhoIsNearViewController.xib"    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/WhoIsNearViewController.nib "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Who is Near/WhoIsNearViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk36"D9A84C3A-7D98-4446-806B-60434621BAB8-
+
+CCompileXIB /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/CardioWorkout/CardioWorkout.xib
+s354466980.538172
+e354466980.724057
+r1
+xCompileXIB
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/CardioWorkout/CardioWorkout.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compiling /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/CardioWorkout/CardioWorkout.xibecdf89a4bc20b541^ce89b9a4bc20b541^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/CardioWorkout/CardioWorkout.xib0000000000000000^730"CompileXIB SoFit/CardioWorkout/CardioWorkout.xib    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/CardioWorkout.nib /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/CardioWorkout/CardioWorkout.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk36"3532BC6C-371E-4745-B418-B5C0B1AC4285-
+
+CCompileXIB /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/LoginView/LoginView.xib
+s354466980.730936
+e354466980.929068
+r1
+xCompileXIB
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/LoginView/LoginView.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compiling /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/LoginView/LoginView.xiba434bba4bc20b541^c7d8eda4bc20b541^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/LoginView/LoginView.xib0000000000000000^710"CompileXIB SoFit/LoginView/LoginView.xib    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/LoginView.nib /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/LoginView/LoginView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk36"90DFE9A3-8C76-4A04-93F3-7F974487885A-
+
+CCompileXIB /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/SplashScreen/SplashScreen.xib
+s354466980.725314
+e354466980.825363
+r1
+xCompileXIB
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/SplashScreen/SplashScreen.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compiling /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/SplashScreen/SplashScreen.xibd2c6b9a4bc20b541^eb56d3a4bc20b541^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/SplashScreen/SplashScreen.xib0000000000000000^725"CompileXIB SoFit/SplashScreen/SplashScreen.xib    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/SplashScreen.nib /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/SplashScreen/SplashScreen.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk36"1A746BD9-9A67-411B-8F37-977ADAC641FA-
+
+CCompileXIB /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Strength/StrengthList.xib
+s354466980.740987
+e354466980.805173
+r1
+xCompileXIB
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Strength/StrengthList.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compiling /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Strength/StrengthList.xib7ac7bda4bc20b541^e02bcea4bc20b541^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Strength/StrengthList.xib0000000000000000^717"CompileXIB SoFit/Strength/StrengthList.xib    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/StrengthList.nib /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Strength/StrengthList.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk36"96E1C7C2-E0B9-457E-B43C-1EFFB3392CAA-
+
+CCompileXIB /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WeightManagement:Cardio/WeightManagementCardio.xib
+s354466980.471543
+e354466980.541227
+r1
+xCompileXIB
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WeightManagement:Cardio/WeightManagementCardio.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compiling /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WeightManagement:Cardio/WeightManagementCardio.xibf5d678a4bc20b541^938e8aa4bc20b541^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WeightManagement:Cardio/WeightManagementCardio.xib0000000000000000^781"CompileXIB "SoFit/WeightManagement:Cardio/WeightManagementCardio.xib"    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/WeightManagementCardio.nib "/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WeightManagement:Cardio/WeightManagementCardio.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk36"80F00CEE-914B-4C51-BCA6-497740299548-
+
+CCompileXIB /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WorkOutRoutines/WorkOutRoutines.xib
+s354466980.463632
+e354466980.535852
+r1
+xCompileXIB
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WorkOutRoutines/WorkOutRoutines.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compiling /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WorkOutRoutines/WorkOutRoutines.xib9cc276a4bc20b541^263889a4bc20b541^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WorkOutRoutines/WorkOutRoutines.xib0000000000000000^740"CompileXIB SoFit/WorkOutRoutines/WorkOutRoutines.xib    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/WorkOutRoutines.nib /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/WorkOutRoutines/WorkOutRoutines.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk36"9C38CB85-B855-4820-A615-D4D04B21C9C1-
+
+CCopyPNGFile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/Check.png SoFit/Images/Check.png
+s354466980.833746
+e354466980.875171
+r1
+xCopyPNGFile
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/Check.png
+xSoFit/Images/Check.png
+o
+oWhile reading /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Images/Check.png pngcrush caught libpng error:
+o   Not a PNG file..
+o
+oCould not find file: /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/Check.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"CopyPNGFile build/Debug-iphoneos/SoFit.app/Check.png SoFit/Images/Check.pngb587d5a4bc20b541^2008e0a4bc20b541^-267"While reading /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Images/Check.png pngcrush caught libpng error:   Not a PNG file..Could not find file: /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/Check.png2(21%IDEActivityLogMessage2@124"While reading /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Images/Check.png pngcrush caught libpng error:-354466980#18446744073709551615#0#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---2@119"Could not find file: /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/Check.png-354466980#18446744073709551615#0#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---0#0#0#-19%DVTDocumentLocation4@96"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Images/Check.png0000000000000000^608"CopyPNGFile build/Debug-iphoneos/SoFit.app/Check.png SoFit/Images/Check.png    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Images/Check.png /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/Check.png36"8D16E223-4247-48AC-A1B5-D384A9D7F759-
+
+CCopyPNGFile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/UnCheck.png SoFit/Images/UnCheck.png
+s354466980.874079
+e354466980.925761
+r1
+xCopyPNGFile
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/UnCheck.png
+xSoFit/Images/UnCheck.png
+o
+oWhile reading /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Images/UnCheck.png pngcrush caught libpng error:
+o   Not a PNG file..
+o
+oCould not find file: /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/UnCheck.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"CopyPNGFile build/Debug-iphoneos/SoFit.app/UnCheck.png SoFit/Images/UnCheck.pngf9dadfa4bc20b541^e109eda4bc20b541^-271"While reading /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Images/UnCheck.png pngcrush caught libpng error:   Not a PNG file..Could not find file: /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/UnCheck.png2(21%IDEActivityLogMessage2@126"While reading /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Images/UnCheck.png pngcrush caught libpng error:-354466980#18446744073709551615#0#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---2@121"Could not find file: /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/UnCheck.png-354466980#18446744073709551615#0#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---0#0#0#-19%DVTDocumentLocation4@98"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Images/UnCheck.png0000000000000000^616"CopyPNGFile build/Debug-iphoneos/SoFit.app/UnCheck.png SoFit/Images/UnCheck.png    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Images/UnCheck.png /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/UnCheck.png36"664AC6D6-4375-4A8D-882C-B14CDB443FA3-
+
+CCopyPNGFile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/WaazAppLogo.png SoFit/Images/WaazAppLogo.png
+s354466980.463075
+e354466980.536164
+r1
+xCopyPNGFile
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/WaazAppLogo.png
+xSoFit/Images/WaazAppLogo.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"CopyPNGFile build/Debug-iphoneos/SoFit.app/WaazAppLogo.png SoFit/Images/WaazAppLogo.pnge8a176a4bc20b541^9c3089a4bc20b541^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Images/WaazAppLogo.png0000000000000000^632"CopyPNGFile build/Debug-iphoneos/SoFit.app/WaazAppLogo.png SoFit/Images/WaazAppLogo.png    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Images/WaazAppLogo.png /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/WaazAppLogo.png36"BB4F97DD-8C67-4803-A661-8D60F9F4B565-
+
+CCopyPNGFile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/WaazAppRetina.png SoFit/Images/WaazAppRetina.png
+s354466980.463091
+e354466980.536375
+r1
+xCopyPNGFile
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/WaazAppRetina.png
+xSoFit/Images/WaazAppRetina.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"CopyPNGFile build/Debug-iphoneos/SoFit.app/WaazAppRetina.png SoFit/Images/WaazAppRetina.png6ea276a4bc20b541^844589a4bc20b541^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Images/WaazAppRetina.png0000000000000000^640"CopyPNGFile build/Debug-iphoneos/SoFit.app/WaazAppRetina.png SoFit/Images/WaazAppRetina.png    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Images/WaazAppRetina.png /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/WaazAppRetina.png36"B2F484EF-E04D-4AE1-8D9C-C71433931AB3-
+
+CCopyPNGFile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/decimalKeyDownBackground.png SoFit/Images/decimalKeyDownBackground.png
+s354466980.806429
+e354466980.872844
+r1
+xCopyPNGFile
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/decimalKeyDownBackground.png
+xSoFit/Images/decimalKeyDownBackground.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"CopyPNGFile build/Debug-iphoneos/SoFit.app/decimalKeyDownBackground.png SoFit/Images/decimalKeyDownBackground.pngce8ccea4bc20b541^3d82dfa4bc20b541^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Images/decimalKeyDownBackground.png0000000000000000^684"CopyPNGFile build/Debug-iphoneos/SoFit.app/decimalKeyDownBackground.png SoFit/Images/decimalKeyDownBackground.png    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Images/decimalKeyDownBackground.png /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/decimalKeyDownBackground.png36"EFD4709A-96AC-4672-BCFA-8D3E3C2C334D-
+
+CCopyPNGFile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/workout.png SoFit/Images/workout.png
+s354466980.826603
+e354466980.927477
+r1
+xCopyPNGFile
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/workout.png
+xSoFit/Images/workout.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"CopyPNGFile build/Debug-iphoneos/SoFit.app/workout.png SoFit/Images/workout.pngc405d4a4bc20b541^897aeda4bc20b541^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Images/workout.png0000000000000000^616"CopyPNGFile build/Debug-iphoneos/SoFit.app/workout.png SoFit/Images/workout.png    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/Images/workout.png /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/workout.png36"9E64C3E4-88AC-4CD1-A8A5-1FA4DB7F2786-
+
+CCopyStringsFile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/en.lproj/InfoPlist.strings SoFit/en.lproj/InfoPlist.strings
+s354466980.463055
+e354466980.470308
+r1
+xCopyStringsFile
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/en.lproj/InfoPlist.strings
+xSoFit/en.lproj/InfoPlist.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy SoFit/en.lproj/InfoPlist.stringsc7a176a4bc20b541^da7078a4bc20b541^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/en.lproj/InfoPlist.strings0000000000000000^520"CopyStringsFile build/Debug-iphoneos/SoFit.app/en.lproj/InfoPlist.strings SoFit/en.lproj/InfoPlist.strings    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/en.lproj -- SoFit/en.lproj/InfoPlist.strings36"B28F746D-3447-40F0-BB4A-F53165B1EA8E-
+
+CCpResource /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist build/Debug-iphoneos/SoFit.app/ResourceRules.plist
+s354466979.558983
+e354466979.561327
+r1
+xCpResource
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist
+xbuild/Debug-iphoneos/SoFit.app/ResourceRules.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/Debug-iphoneos/SoFit.app/ResourceRules.plist2b318fa3bc20b541^431f90a3bc20b541^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/ResourceRules.plist00f8fc06dcffdf42^632"CpResource /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist build/Debug-iphoneos/SoFit.app/ResourceRules.plist    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app36"3937AD0C-A17B-47D0-8F87-3719E0093E08-
+
+CGenerateDSYMFile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app.dSYM /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/SoFit
+s354466980.402138
+e354466980.460449
+r1
+xGenerateDSYMFile
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app.dSYM
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/SoFit
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Generating /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app.dSYMd50667a4bc20b541^3fe075a4bc20b541^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app.dSYM00f8fc06dcffdf42^503"GenerateDSYMFile build/Debug-iphoneos/SoFit.app.dSYM build/Debug-iphoneos/SoFit.app/SoFit    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/SoFit -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app.dSYM36"5D6FCDE4-85A5-4866-8BE8-AFD10866F61B-
+
+CLd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/SoFit normal armv7
+s354466980.356806
+e354466980.400933
+r1
+xLd
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/SoFit
+xnormal
+xarmv7
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Link /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/SoFitad685ba4bc20b541^11a866a4bc20b541^---0#0#0#--1006"Ld build/Debug-iphoneos/SoFit.app/SoFit normal armv7    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -L/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos -F/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos -filelist /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/Objects-normal/armv7/SoFit.LinkFileList -dead_strip -fobjc-arc -miphoneos-version-min=4.0 -framework iAd -framework QuartzCore -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/SoFit36"AF78ED75-2081-49B2-876C-CF11CD3ADFE1-
+
+CProcessInfoPlistFile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/Info.plist SoFit/SoFit-Info.plist
+s354466979.559010
+e354466979.569898
+r1
+xProcessInfoPlistFile
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/Info.plist
+xSoFit/SoFit-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"Process SoFit/SoFit-Info.plist122f8fa3bc20b541^d6e491a3bc20b541^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/SoFit-Info.plist0000000000000000^722"ProcessInfoPlistFile build/Debug-iphoneos/SoFit.app/Info.plist SoFit/SoFit-Info.plist    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SoFit/SoFit-Info.plist -genpkginfo /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/ResourceRules.plist -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/Info.plist36"4D1F5398-22DC-4469-897A-CB93ED2EE07E-
+
+CProcessPCH /Users/cgvak/Library/Developer/Xcode/DerivedData/SoFit-abdkdhwhnmsxwgflhfifwcjgoxho/Index/PrecompiledHeaders/SoFit-Prefix-erbnmeogzusuvghfpbwjeqiuixmg_ast/SoFit-Prefix.pch.pth SoFit/SoFit-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch.pth SoFit/SoFit-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354466979.573143
+e354466979.813592
+r1
+xProcessPCH
+x/var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch.pth
+xSoFit/SoFit-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile SoFit/SoFit-Prefix.pcha2d092a3bc20b541^3848d0a3bc20b541^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/SoFit-Prefix.pch0000000000000000^2611"ProcessPCH /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch.pth SoFit/SoFit-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=4.0 -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-generated-files.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-own-target-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-all-target-headers.hmap -iquote /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit-project-headers.hmap -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/include -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources/armv7 -I/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/DerivedSources -F/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos -c /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/SoFit/SoFit-Prefix.pch -o /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/Mc/McZcCbE+HJu2wWA+gDasRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SoFit-Prefix-hcaeqnmkynvihcdaokkwltzxxovr/SoFit-Prefix.pch.d36"2BF87901-3D40-4517-A18F-212575A03D70-
+
+CProcessProductPackaging "/Users/cgvak/Library/MobileDevice/Provisioning Profiles/2B8486E9-100F-45BF-AA79-22D370F88843.mobileprovision" /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/embedded.mobileprovision
+s354466980.940546
+e354466980.945192
+r1
+xProcessProductPackaging
+x/Users/cgvak/Library/MobileDevice/Provisioning Profiles/2B8486E9-100F-45BF-AA79-22D370F88843.mobileprovision
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/embedded.mobileprovision
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection190"ProcessProductPackaging "/Users/cgvak/Library/MobileDevice/Provisioning Profiles/2B8486E9-100F-45BF-AA79-22D370F88843.mobileprovision" build/Debug-iphoneos/SoFit.app/embedded.mobileprovision4ce2f0a4bc20b541^f208f2a4bc20b541^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/embedded.mobileprovision0000000000000000^644"ProcessProductPackaging "/Users/cgvak/Library/MobileDevice/Provisioning Profiles/2B8486E9-100F-45BF-AA79-22D370F88843.mobileprovision" build/Debug-iphoneos/SoFit.app/embedded.mobileprovision    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/cgvak/Library/MobileDevice/Provisioning Profiles/2B8486E9-100F-45BF-AA79-22D370F88843.mobileprovision" -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app/embedded.mobileprovision36"567BBE17-EE8B-472D-9BCB-AD6BF8B0DE3B-
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit.xcent
+s354466980.961878
+e354466980.980072
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit.xcent
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection169"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit.xcent5c55f6a4bc20b541^dae6faa4bc20b541^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit.xcent00f8fc06dcffdf42^628"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit.xcent    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/SoFit.build/Debug-iphoneos/SoFit.build/SoFit.xcent36"DCA1782B-AA5E-4D81-B019-2B458F026718-
+
+CTouch /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app
+s354466980.949136
+e354466980.958621
+r1
+xTouch
+x/Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Touch /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app9d0ff3a4bc20b541^696ef5a4bc20b541^---0#0#0#--337"Touch build/Debug-iphoneos/SoFit.app    cd /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/cgvak/Documents/iPhoneSamples/Projects/WaaSF/SoFit/build/Debug-iphoneos/SoFit.app36"366D314E-C0BA-4FBC-A875-48ED6D88E643-
+

@@ -7,7 +7,7 @@
 //
 
 #import "WeightManagementCardio.h"
-#import "TestFormattingClass.h"
+#import "TextFormattingClass.h"
 #import "CardioWorkout.h"
 
 @implementation WeightManagementCardio
@@ -37,9 +37,11 @@
 #pragma mark - View lifecycle
 
 - (void)viewWillAppear:(BOOL)animated{
-  TestFormattingClass *testFormattingClass = [[TestFormattingClass alloc] init];  
+  TextFormattingClass *textFormattingClass = [[TextFormattingClass alloc] init];  
   exerciseTable.backgroundColor = [UIColor clearColor];
-  self.navigationItem.titleView = [testFormattingClass setNavigationtitleWithString:@"CARDIO"];
+  self.navigationItem.titleView = [textFormattingClass setNavigationtitleWithString:@"CARDIO"];
+  [textFormattingClass bannerView:self.view];
+  self.bannerIsVisible = YES;
   edit.hidden = TRUE;
   add.hidden = TRUE;
 }
@@ -51,42 +53,8 @@
   [cardioExerciseName addObject:@"Elliptical"];
     [super viewDidLoad];
   
-  adView = [[ADBannerView alloc] initWithFrame:CGRectMake(0.0, 400.0, 320.0, 40.0)];
-  adView.requiredContentSizeIdentifiers = [NSSet setWithObject:ADBannerContentSizeIdentifierPortrait];
-  adView.currentContentSizeIdentifier = ADBannerContentSizeIdentifierPortrait;
-  [self.view addSubview:adView];
-  adView.delegate=self;
-  self.bannerIsVisible=NO;
-
     // Do any additional setup after loading the view from its nib.
 }
-
-#pragma mark - iAdd
-
-- (void)bannerViewDidLoadAd:(ADBannerView *)banner
-{
-  if (!self.bannerIsVisible)
-  {
-    [UIView beginAnimations:@"animateAdBannerOn" context:NULL];
-    // banner is invisible now and moved out of the screen on 50 px
-    banner.frame = CGRectOffset(banner.frame, 0, -50);
-    [UIView commitAnimations];
-    self.bannerIsVisible = YES;
-  }
-}
-
-- (void)bannerView:(ADBannerView *)banner didFailToReceiveAdWithError:(NSError *)error
-{
-  if (self.bannerIsVisible)
-  {
-    [UIView beginAnimations:@"animateAdBannerOff" context:NULL];
-    // banner is visible and we move it out of the screen, due to connection issue
-    banner.frame = CGRectOffset(banner.frame, 0, 50);
-    [UIView commitAnimations];
-    self.bannerIsVisible = NO;
-  }
-}
-
 
 - (IBAction)buttonClicked:(id)sender{
   UIButton *btn = sender;
@@ -136,13 +104,15 @@
       }
     }
 	}
-  cell.textLabel.font = [UIFont fontWithName:@"Helvetica" size:15];
-  cell.textLabel.text = [cardioExerciseName objectAtIndex:indexPath.row]; 
+  
+  cell.backgroundColor = [UIColor clearColor];
   
   UIImageView *workStatusImage = [[UIImageView alloc]initWithFrame:CGRectMake(270, 13, 20, 20)];
-  workStatusImage.image = [UIImage imageNamed:@"UnCheck.png"];
+  workStatusImage.image = [UIImage imageNamed:@"Check.png"];
   [cell.contentView addSubview:workStatusImage];
   
+  cell.textLabel.font = [UIFont fontWithName:@"Helvetica" size:15];
+  cell.textLabel.text = [cardioExerciseName objectAtIndex:indexPath.row]; 
   return  cell;
 }
 

@@ -15,12 +15,12 @@
     
 }
 
-@property (weak, nonatomic) IBOutlet UITextField *userNameTxtField;
-@property (weak, nonatomic) IBOutlet UITextField *passwordTxtField;
+@property (strong, nonatomic) IBOutlet UITextField *userNameTxtField;
+@property (strong, nonatomic) IBOutlet UITextField *passwordTxtField;
 
-@property (weak, nonatomic) IBOutlet UIButton *loginBtn;
-@property (weak, nonatomic) IBOutlet UIButton *forgetPwdBtn;
-@property (weak, nonatomic) IBOutlet UIButton *keepLogInBtn;
+@property (strong, nonatomic) IBOutlet UIButton *loginBtn;
+@property (strong, nonatomic) IBOutlet UIButton *forgetPwdBtn;
+@property (strong, nonatomic) IBOutlet UIButton *keepLogInBtn;
 
 
 -(IBAction)submitBtn ;
